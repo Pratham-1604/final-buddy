@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29919438410",
+    "firebase_url": "https://green-buddies-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "green-buddies-app",
+    "storage_bucket": "green-buddies-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29919438410:android:925eea5cb6f9ac8a1268b3",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29919438410-02ma51r30fek0bvvbrqb6a0lqhjkilno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVgKc9N-QaePNhqeAfabCC_tfYt-LRtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29919438410-02ma51r30fek0bvvbrqb6a0lqhjkilno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

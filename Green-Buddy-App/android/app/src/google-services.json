@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634622390296",
+    "project_id": "chat-app-by-prathamesh",
+    "storage_bucket": "chat-app-by-prathamesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634622390296:android:bafc25622660dda893136d",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634622390296-j0u17fuvvb0ae4dhnhi54l8a0eqoahoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7msAM-ObBFNESoGCWmQ95eUNbe-rFPG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634622390296-j0u17fuvvb0ae4dhnhi54l8a0eqoahoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
